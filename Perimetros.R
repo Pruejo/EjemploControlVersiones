@@ -10,5 +10,5 @@ PerimetroCircunferencia = function(R){
 
 
 AreaRectangulo = function(L,H){
-HEAD
+
   return((L+H)*2)}
