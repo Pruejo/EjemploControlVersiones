@@ -17,4 +17,10 @@ Area = pi*r
 
 ```
 
+```{r}
 
+Lado = 3
+AreaCuadrado = Lado * Lado
+
+
+```
