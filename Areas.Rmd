@@ -42,3 +42,14 @@ AreaCuadrado = Lado * Altura
 
 
 ```
+
+```{r}
+
+BaseMayor = 4
+BaseMenor = 2
+Altura = 5
+AreaTrapecio = ((BaseMenor + BaseMayor)*Altura)/2
+
+
+```
+
