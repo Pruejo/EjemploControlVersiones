@@ -34,3 +34,11 @@ AreaCuadrado = (Base * Altura)/2
 
 ```
 
+```{r}
+
+Lado = 4
+Altura = 5
+AreaCuadrado = Lado * Altura
+
+
+```
