@@ -1,3 +1,3 @@
-AreaCuadrado = function(L){
-  return(4*L)
-}
+AreaCuadrado = function(l){
+  return(4*l)
+}    
